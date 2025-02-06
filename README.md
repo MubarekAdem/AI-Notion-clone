@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started - 00:23:00
 
+stoped at 00:33:00
+
 First, run the development server:
 
 ```bash
