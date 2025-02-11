@@ -1,8 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started 
+## Getting Started
 
-stoped at 00:45:00
+stoped at 00:52 : 30
 
 First, run the development server:
 
